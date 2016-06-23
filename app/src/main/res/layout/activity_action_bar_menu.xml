@@ -12,10 +12,10 @@
         android:textSize="20sp"
         android:text="Try My Action Bar!" />
         
-          <ImageView
-        android:id=""
+      <ImageView
+        android:id="@+id/imageView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable-hdpi/an" />
+        android:src="@drawable/ad" />
 
 </RelativeLayout>
