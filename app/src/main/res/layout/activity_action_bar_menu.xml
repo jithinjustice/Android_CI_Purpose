@@ -13,9 +13,9 @@
         android:text="Try My Action Bar!" />
         
           <ImageView
-        android:id="@+id/titleIV"
+        android:id=""
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable-hdpi/an.png" />
+        android:src="@drawable-hdpi/an" />
 
 </RelativeLayout>
